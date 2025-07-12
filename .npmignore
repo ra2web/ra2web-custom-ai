@@ -1,0 +1,15 @@
+.vs/
+.vscode/
+.idea/
+dist/
+node_modules/
+replays/
+*.tgz
+*.rpl
+*.log
+*.cpuprofile
+.env
+*.ini
+.prettierrc
+*.md
+battle_logs/
