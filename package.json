@@ -2,7 +2,10 @@
     "name": "@ra2web/ra2web-custom-bot",
     "version": "0.0.1",
     "description": "Custom bot for RA2Web",
-    "repository": "https://github.com/ra2web/ra2web-custom-bot",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ra2web/ra2web-custom-ai.git"
+    },
     "main": "dist/main.js",
     "type": "module",
     "scripts": {

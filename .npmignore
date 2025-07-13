@@ -1,7 +1,6 @@
 .vs/
 .vscode/
 .idea/
-dist/
 node_modules/
 replays/
 *.tgz
